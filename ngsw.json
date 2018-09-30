@@ -1,0 +1,133 @@
+{
+  "configVersion": 1,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.427b36a455012236e1d8.js",
+        "/polyfills.2be085a4b57f2f5d859b.js",
+        "/runtime.6afe30102d8fe7337431.js",
+        "/scripts.bbaab5518869e4925da1.js",
+        "/styles.302d8f02da79a588d09c.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/Registernummer2.jpg",
+        "/assets/RengasCenter_Pjelax_V2.png",
+        "/assets/RengasCenter_Pjelax_V2old.png",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/images/angularfirebase.png",
+        "/assets/images/arrow-left.png",
+        "/assets/images/arrow-right.png",
+        "/assets/images/icons/icon-128x128.png",
+        "/assets/images/icons/icon-144x144.png",
+        "/assets/images/icons/icon-152x152.png",
+        "/assets/images/icons/icon-192x192.png",
+        "/assets/images/icons/icon-384x384.png",
+        "/assets/images/icons/icon-512x512.png",
+        "/assets/images/icons/icon-72x72.png",
+        "/assets/images/icons/icon-96x96.png",
+        "/assets/logos/BEDIKA_Logo.jpg",
+        "/assets/logos/BEDIKA_Logo_png.png",
+        "/assets/logos/ENGEL_Logo.jpg",
+        "/assets/logos/ENGEL_Logo_png.png",
+        "/assets/logos/OMRON_Logo.jpg",
+        "/assets/logos/OMRON_Logo_png.png",
+        "/assets/logos/PREVEX_Logo_png.png",
+        "/assets/logos/Rottneros_Packaging_png.png",
+        "/assets/logos/TOTECH_BK.jpg",
+        "/assets/logos/TOTECH_BK_png.png",
+        "/assets/logos/TOTECH_BK_web.jpg",
+        "/assets/logos/TOTECH_BK_web_png.png",
+        "/assets/logos/TOTECH_WH.jpg",
+        "/assets/totech_icon.jpg",
+        "/assets/totech_logo.jpg",
+        "/assets/totech_logo_inverse.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/Registernummer2.jpg": "f8cf7edf1f7a201a65533a80b0ed475c56e8a609",
+    "/assets/RengasCenter_Pjelax_V2.png": "0ed9855715128a4ea6185032d729d63e37e68f46",
+    "/assets/RengasCenter_Pjelax_V2old.png": "eb4282e8f28f63039f21344da189cac36f78d5a3",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/images/angularfirebase.png": "7de2d644d53677bd8bf004ce528c06ae0e8d104f",
+    "/assets/images/arrow-left.png": "c28abf8d52c56a41ed07266c12a421c5c015062b",
+    "/assets/images/arrow-right.png": "42ef9d1812660ca6bacfff57c8ee70002ed28cf6",
+    "/assets/images/icons/icon-128x128.png": "1699b8b196b7c8570b02b3d1b17a22fb91282a8e",
+    "/assets/images/icons/icon-144x144.png": "e2ef43854dbc592cc43c73c79e0e0be70e07fbd2",
+    "/assets/images/icons/icon-152x152.png": "e00ad5664c24f64c365d00e52c19af696c037d22",
+    "/assets/images/icons/icon-192x192.png": "43fc6be724633714414f0575f7925ce31cc9c5cb",
+    "/assets/images/icons/icon-384x384.png": "ab6a6cdb6d435a9bca9e0e3476eb857859537199",
+    "/assets/images/icons/icon-512x512.png": "628875805fb099db26adf28781da669d38aaf743",
+    "/assets/images/icons/icon-72x72.png": "07c79fb78313551e9da225292fd4b0038663e942",
+    "/assets/images/icons/icon-96x96.png": "0250397474e629af71ba9aea2ea69556813abd82",
+    "/assets/logos/BEDIKA_Logo.jpg": "d8b641b7d4e07dd538c8103801fadf940cf53fe5",
+    "/assets/logos/BEDIKA_Logo_png.png": "76353f2d814541a82196e7cbd3452c0a1286a344",
+    "/assets/logos/ENGEL_Logo.jpg": "f17780031df53f1b4c185e08d62a3daf4f253c86",
+    "/assets/logos/ENGEL_Logo_png.png": "a0d4db647a1985edce4525ccb5020f24a4e105be",
+    "/assets/logos/OMRON_Logo.jpg": "cb4912fe41a6ec34e503bea35941d06c48afc251",
+    "/assets/logos/OMRON_Logo_png.png": "d84efe24e6a426d65084c0c67da2336ea05595cf",
+    "/assets/logos/PREVEX_Logo_png.png": "c23b7d021fb294a97732644629cc11d9974e0492",
+    "/assets/logos/Rottneros_Packaging_png.png": "fc5bd752bcff4efeb4fbe2b0bf98ec816bda6a53",
+    "/assets/logos/TOTECH_BK.jpg": "0faabc3a75a9b8ff9fc82246f643224845a0eb16",
+    "/assets/logos/TOTECH_BK_png.png": "00aee52104305f4106fd601bb597b1beeea25fe9",
+    "/assets/logos/TOTECH_BK_web.jpg": "8dd707daf96f240eea4b1e29ac531d23ae21d07d",
+    "/assets/logos/TOTECH_BK_web_png.png": "ad590d52524d17f8ada8b257500e62f23c48e10f",
+    "/assets/logos/TOTECH_WH.jpg": "fee1cbdeca3052d2a4e8b773c3bdd6a63634d8b6",
+    "/assets/totech_icon.jpg": "bdb5161ec56f87dc39be6af58742ec83b4e543d0",
+    "/assets/totech_logo.jpg": "4b7cf4f6fa43e7f68051095e955c91007c1fce4e",
+    "/assets/totech_logo_inverse.jpg": "32c94f2743cc971862dc91297cca43e7d907a2e4",
+    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/index.html": "90e63bbe813f7da55acf9cf532ce4551029ba246",
+    "/main.427b36a455012236e1d8.js": "adc51c81ad25b1341fe6b13c408bb687c09fb365",
+    "/polyfills.2be085a4b57f2f5d859b.js": "9f0b8341c0a0caec1581da2f255eb5dbb8e12303",
+    "/runtime.6afe30102d8fe7337431.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
+    "/scripts.bbaab5518869e4925da1.js": "73934d48b95f2b08268d567b3981da5b6e494b1f",
+    "/styles.302d8f02da79a588d09c.css": "6a552fb739ecd5b3870ae4094123e88970f498cb"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^\\/]*\\.[^\\/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^\\/]*__[^\\/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^\\/]*__[^\\/]*\\/.*$"
+    }
+  ]
+}
