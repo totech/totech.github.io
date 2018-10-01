@@ -9,7 +9,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.e1c74427814e018def2f.js",
+        "/main.c73c8c8dd11d87ee34fa.js",
         "/polyfills.2be085a4b57f2f5d859b.js",
         "/runtime.6afe30102d8fe7337431.js",
         "/scripts.bbaab5518869e4925da1.js",
@@ -22,6 +22,7 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
+        "/assets/Pjelax_Ringservice.png",
         "/assets/Registernummer2.jpg",
         "/assets/RengasCenter_Pjelax_V2.png",
         "/assets/RengasCenter_Pjelax_V2old.png",
@@ -66,6 +67,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
+    "/assets/Pjelax_Ringservice.png": "4544dc31201da91891f7818fb096b3bd9f797eff",
     "/assets/Registernummer2.jpg": "f8cf7edf1f7a201a65533a80b0ed475c56e8a609",
     "/assets/RengasCenter_Pjelax_V2.png": "0ed9855715128a4ea6185032d729d63e37e68f46",
     "/assets/RengasCenter_Pjelax_V2old.png": "eb4282e8f28f63039f21344da189cac36f78d5a3",
@@ -105,8 +107,8 @@
     "/assets/totech_logo.jpg": "4b7cf4f6fa43e7f68051095e955c91007c1fce4e",
     "/assets/totech_logo_inverse.jpg": "32c94f2743cc971862dc91297cca43e7d907a2e4",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "bcfcf974851b343380688843243b417ce23a87f1",
-    "/main.e1c74427814e018def2f.js": "a0f90f9e040276db99b65c87ac296439d48b7746",
+    "/index.html": "2dc36283922c3414fb8e295ffc7ec83ebe6622bb",
+    "/main.c73c8c8dd11d87ee34fa.js": "170dccffbd292e23b50e4785c062a0d6686b6b78",
     "/polyfills.2be085a4b57f2f5d859b.js": "9f0b8341c0a0caec1581da2f255eb5dbb8e12303",
     "/runtime.6afe30102d8fe7337431.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
     "/scripts.bbaab5518869e4925da1.js": "73934d48b95f2b08268d567b3981da5b6e494b1f",
