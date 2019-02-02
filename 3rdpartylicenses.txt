@@ -342,6 +342,10 @@ Apache License
  See the License for the specific language governing permissions and
  limitations under the License.
 
+@trademe/ng-add-to-calendar@2.0.1
+MIT
+MIT
+
 ng-recaptcha@4.0.0
 MIT
 The MIT License (MIT)
