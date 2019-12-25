@@ -431,6 +431,13 @@ OTHER DEALINGS IN THE SOFTWARE.
 MIT
 MIT
 
+date-fns@1.29.0
+MIT
+# License
+
+date-fns is licensed under the [MIT license](http://kossnocorp.mit-license.org).
+Read more about MIT at [TLDRLegal](https://tldrlegal.com/license/mit-license).
+
 @firebase/app@0.3.3
 Apache-2.0
 Apache-2.0
@@ -454,13 +461,6 @@ Apache-2.0
 @firebase/webchannel-wrapper@0.2.8
 Apache-2.0
 Apache-2.0
-
-date-fns@1.29.0
-MIT
-# License
-
-date-fns is licensed under the [MIT license](http://kossnocorp.mit-license.org).
-Read more about MIT at [TLDRLegal](https://tldrlegal.com/license/mit-license).
 
 angular-calendar@0.26.4
 MIT
